@@ -1,0 +1,23 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+#IdBoard{
+    background: url("../img/board/xiangqiboard.png") 0% 0% / 100% no-repeat;
+    margin: auto;
+    position: relative;
+}
+
+.piece{
+    position: absolute;
+
+    margin: 0px;
+    padding: 0px;
+}
+
+.mark{
+    position: absolute;
+    margin: 0px;
+    padding: 0px;
+}
